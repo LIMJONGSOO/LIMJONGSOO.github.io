@@ -1,5 +1,5 @@
 {
-  "name": "jongsoo",
+  "name": "LIMJONGSOO.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -95,7 +95,7 @@
     "@types/styled-components": "^5.0.1",
     "gh-pages": "^2.2.0"
   },
-  "homepage": "https://limjongsoo.github.io/portfolio",
+  "homepage": "https://limjongsoo.github.io",
   "jest": {
     "roots": [
       "<rootDir>/src"
